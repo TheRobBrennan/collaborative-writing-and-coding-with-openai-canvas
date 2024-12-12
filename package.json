@@ -1,0 +1,16 @@
+{
+  "name": "collaborative-writing-and-coding-with-openai-canvas",
+  "version": "0.0.0",
+  "description": "Based on the course from DeepLearning.AI at [https://www.deeplearning.ai/short-courses/collaborative-writing-and-coding-with-openai-canvas/?utm_campaign=openaiC3-launch&utm_medium=headband&utm_source=dlai-homepage](https://www.deeplearning.ai/short-courses/collaborative-writing-and-coding-with-openai-canvas/?utm_campaign=openaiC3-launch&utm_medium=headband&utm_source=dlai-homepage)",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/collaborative-writing-and-coding-with-openai-canvas.git"
+  },
+  "author": "Rob Brennan <rob@sploosh.ai>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/collaborative-writing-and-coding-with-openai-canvas/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/collaborative-writing-and-coding-with-openai-canvas#readme"
+}
